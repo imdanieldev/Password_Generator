@@ -1,0 +1,12 @@
+{
+  "name": "Password Maker",
+  "version": "1.0.0",
+  "description": "Password Maker",
+  "main": "main.dart",
+  "scripts": {
+    "script": "cls && dart run main.dart",
+    "test": "cls && dart run test.dart"
+  },
+  "author": "Daniel",
+  "license": "MIT"
+}
